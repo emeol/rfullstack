@@ -2,26 +2,26 @@
     {
         "id":1,
         "title":"New ES6",
-        "feed":"Whatever you want to say"
+        "feed":"In vehicula placerat nisi et sodales. Nullam in consectetur lacus. Praesent mi justo, congue eget tellus nec, posuere pretium nunc"
     },
     {
         "id":2,
         "title":"This is second ES6",
-        "feed":"Whatever you want to say"
+        "feed":"uspendisse dui ligula, accumsan non tempor sed, scelerisque eu risus. Nulla facilisi"
     },
     {
         "id":3,
         "title":"Third too ES6",
-        "feed":"Whatever you want to say"
+        "feed":"Curabitur ornare gravida diam, eu interdum turpis elementum in. Vestibulum consectetur leo sit amet purus consectetur venenatis"
     },
     {
         "id":4,
         "title":"Fourth or forth ES6",
-        "feed":"Whatever you want to say"
+        "feed":"Nulla fringilla convallis placerat. Aliquam quis aliquam nisi, in ultricies magna"
     },
     {
         "id":5,
         "title":"Fifth spek clearly New ES6",
-        "feed":"Whatever you want to say"
+        "feed":"Nulla fringilla convallis placerat. Aliquam quis aliquam nisi, in ultricies magna"
     }
 ]
